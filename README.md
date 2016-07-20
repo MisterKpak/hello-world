@@ -1,2 +1,1 @@
-# hello-world
-a short description
+Well, i'm a student if that helps
